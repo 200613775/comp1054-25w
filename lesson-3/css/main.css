@@ -5,11 +5,11 @@ background-colour: #666;
 
 #page {
 	width: 70%;
-   background color: white;
-    margin: 50px auto
-			padding: 5%;
+   background-color: white;
+    margin: 50px auto;
+		padding: 5%;
   box-shadow: 0 5px 5px 0 rgba(0,0,0,0.75);
-]
+}
 
 /* Multi-column layout
 -------------------------------------------------- */
@@ -19,4 +19,5 @@ main {
 }
 main p:first-child {
   margin-top: 0;
+}
 }
