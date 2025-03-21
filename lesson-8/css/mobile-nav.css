@@ -195,7 +195,6 @@ label[for="toggle-menu"] {
 			color: var(--light-primary-color);
 	}
 }
-
 /* STEP 23: All done! The final step is to remove the ugly diagnostic borders above from the HEADER, the H1, and the NAV */
 
 /* Table styling
