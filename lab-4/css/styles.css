@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+html {
+    font: 120%/1.2 "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #ddd;
+}
+thead th:empty {
+    background-color: transparent;
+}
+
+colgroup + colgroup col:nth-child(6) {
+    background-color: rgba(52, 204, 246, 0.25);
+}
+
+tbody tr:nth-child(even) {
+    background: rgb(237, 237, 237);
+}
