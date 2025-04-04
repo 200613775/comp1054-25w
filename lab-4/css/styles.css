@@ -23,6 +23,6 @@ colgroup + colgroup col:nth-child(6) {
     background-color: rgba(52, 204, 246, 0.25);
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(odd) {
     background: rgb(237, 237, 237);
 }
